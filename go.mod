@@ -1,4 +1,4 @@
-module github.com/ipinfo/go/v2
+module github.com/jeremy-cxf/go/v2
 
 go 1.15
 
